@@ -1,7 +1,9 @@
 # SocketPipe Protocol Specification
 
+> **⚠️ Superseded.** This protocol has been replaced by [VROOM-Terminal](https://github.com/deftai/vroom/blob/main/VROOM-Terminal.md), and the underlying OpenMUX transport work has moved to [xumux.org](https://xumux.org). This repository is kept for historical reference only; new work should target VROOM-Terminal over xumux.
+
 **Version**: 1.0.0-draft  
-**Status**: Draft  
+**Status**: Draft (superseded)  
 **Date**: 2026-02-09
 
 SocketPipe is an open protocol for transporting terminal I/O between web-based clients and backend services over WebSocket connections.
